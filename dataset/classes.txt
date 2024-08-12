@@ -1,0 +1,7 @@
+person
+hard-hat
+gloves
+glasses
+boots
+vest
+ppe-suit
