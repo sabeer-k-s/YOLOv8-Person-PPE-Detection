@@ -1,5 +1,5 @@
-# YOLOv8-Person-PPE-Detection
-<img src="https://github.com/sabeer-k-s/YOLOv8-Person-PPE-Detection/blob/main/readme_images/1.png" width=500>
+# IndustryGuard™
+<img src="industryguard.gif" width=800>
 
 
 ## Introduction
