@@ -163,7 +163,8 @@ def process_webcam(person_model_path, ppe_model_path):
 
 
 def main():
-    st.title("PPE Detection System")
+    st.title("IndustryGuard™")
+    st.subheader("Where AI Meets Workplace Safety! ")
 
     mode = st.sidebar.radio("Select Mode", ("Upload Video", "Webcam Detection"))
 
