@@ -20,6 +20,7 @@ This project develops an object detection system using YOLOv8 to identify people
 │   ├── person_detection_model.pt
 │   └── ppe_detection_model.pt
 └── inference.py
+└── app.py
 └── pascalVOC_to_yolo.py
 └── README.md
 ```
